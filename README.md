@@ -1,4 +1,4 @@
-# FibonacciNumberGenerator
+# Fibonacci Number Generator
 Generate Fibonacci corresponding number for a given position
 
 ## Definition
