@@ -1,7 +1,7 @@
 # FibonacciNumberGenerator
 Generate Fibonacci corresponding number for a given position
 
-<h1>Definition</h1>
+## Definition
 
 In mathematics, the Fibonacci numbers form a sequence, called the Fibonacci sequence, such that each number is the sum of the two preceding ones, starting from 0 and 1. That is,
 
